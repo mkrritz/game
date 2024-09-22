@@ -1,0 +1,15 @@
+Keyboard:
+F1: full screen
+mouse + WASD: move godseye
+
+Controller:
+L2/R2: move camera
+L1/R1: switch layer (when in blue circle)
+Right analog up/down: camera fov
+Left analog: move player
+A: faster player
+X: Jump in direction of left analog
+
+  Y
+ X B
+  A
